@@ -6,6 +6,7 @@ Glossário POO
 
    * [Construtor](#constructor)
    * [Instanciação](#instanciação)
+   * [Encapsulamento](#encapsulamento)
    * [Getters/Setters](#getters-e-setters)
    * [Assinatura de método](#assinatura-de-metodo)
    * [Sobrecarga de método](#sobrecarga-de-metodo)
