@@ -76,6 +76,16 @@ public class Livro{
 	char tipo;  
 }
 ```
+Encapsulamento
+========
+- Encapsulamento é a restrição de determinados dados de uma classe,tornando assim, disponiveis apenas por meio de métodos.  
+Ocultamento é uma parte do encapsulamento.  
+São usadas as seguintes palavras para determinar o encapsulamento:  
+  
+* +Public: Pode ser acessado fora da classe.
+* #Protected: Apenas a classe e suas heranças tem acesso.
+* -Private: Apenas a própria classe pode acessar.
+
 Getters e Setters
 ========
 O método Getter é utilizado para recuperar alguma informação, geralmente utilizado para trazer informação de algum atributo, sem ter que utilizar o atributo explicitamente. Então chamamos atraves de métodos
